@@ -37,6 +37,9 @@ src="https://img.shields.io/github/followers/psawant3187?logo=github&style=for-t
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+## Stats
+![Pranit's GitHub stats](https://github-readme-stats.vercel.app/api?username=psawant3187&show_icons=true&theme=dark)
+
 
 ### Socials
 
