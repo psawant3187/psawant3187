@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/psawant3187?logo=github&style=for-t
 <p align="left"> <a href="https://discord.com/users/Pranit3187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    
 <a href="https://www.github.com/psawant3187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>     
 <a href="http://www.instagram.com/pranit_53" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="http://https://www.linkedin.com/in/pranit-sawant" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/pranit-sawant" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" width="32" height="32" /></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=psawant3187&label=Visitor+Counter&style=for-the-badge&color=0c94b4)
