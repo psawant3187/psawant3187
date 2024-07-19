@@ -36,10 +36,12 @@ src="https://img.shields.io/github/followers/psawant3187?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Pranit3187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    
-<a href="https://www.github.com/psawant3187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>     
-<a href="http://www.instagram.com/pranit_53" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/pranit-sawant" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://discord.com/users/Pranit3187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>    
+<a href="https://www.github.com/psawant3187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="Github" /></a>     
+<a href="http://www.instagram.com/pranit_53" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/pranit-sawant-a19b96285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" width="32" height="32" alt="Linkedin" /></a>
+<a href="https://medium.com/@prsawant699" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354055/medium.svg" width="32" height="32" alt="Medium" /></a>
+<a href="https://twitter.com/pranit_3187" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter x" /></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=psawant3187&label=Visitor+Counter&style=for-the-badge&color=0c94b4)
