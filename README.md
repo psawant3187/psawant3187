@@ -3,7 +3,7 @@
 
 ## An Artificial Intelligence and Data Science Engineering student
 
-### Aspiring AI & Data Science Professional | Python Developer 
+### Aspiring AI | Gen- AI Enthusiast | Python Developer 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me [here](mailto:work.pranitsawant@gmail.com)
@@ -26,6 +26,8 @@ src="https://img.shields.io/github/followers/psawant3187?logo=github&style=for-t
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="SQL" /></a>
+<a href="https://pandas.pydata.org//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
 </p>
 
 ## Stats
@@ -34,8 +36,9 @@ src="https://img.shields.io/github/followers/psawant3187?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/nirakar24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    <a href="https://www.github.com/nirakar24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>     <a href="http://www.instagram.com/nirakar_24_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.hackerrank.com/jenashubham60" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nirakar" height="32" width="32" /></a>
+<p align="left"> <a href="https://discord.com/users/Pranit3187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    
+<a href="https://www.github.com/psawant3187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>     
+<a href="http://www.instagram.com/pranit_53" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=psawant3187&label=Visitor+Counter&style=for-the-badge&color=0c94b4)
