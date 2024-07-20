@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/psawant3187?logo=github&style=for-t
 <a href="https://www.github.com/psawant3187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="Github" /></a>     
 <a href="http://www.instagram.com/pranit_53" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
 <a href="https://www.linkedin.com/in/pranit-sawant-a19b96285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" width="32" height="32" alt="Linkedin" /></a>
-<a href="https://medium.com/@prsawant699" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/394277/medium.svg" width="32" height="32" alt="Medium" /></a>
+<a href="https://medium.com/@prsawant699" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/450231/medium.svg" width="32" height="32" alt="Medium" /></a>
 <a href="https://twitter.com/pranit_3187" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg" width="32" height="32" alt="Twitter x" /></a>
 </p>
 
